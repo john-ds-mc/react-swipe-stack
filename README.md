@@ -7,7 +7,7 @@ Built with Framer Motion. No CSS framework required — inline styles work every
 ## Install
 
 ```bash
-npm install react-swipe-stack framer-motion
+npm install john-ds-mc/react-swipe-stack framer-motion
 ```
 
 ## Usage
